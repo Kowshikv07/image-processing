@@ -10,7 +10,7 @@ This project is a Java-based image processing tool that utilizes `BufferedImage`
 ## Installation
 1. Clone the repository or download the project files.
    ```sh
-   git clone <[repository-url](https://github.com/Kowshikv07/image-processing.git)>
+   git clone <(https://github.com/Kowshikv07/image-processing.git)>
    cd image-processing
    ```
 2. Ensure Java is installed by checking the version:
